@@ -47,3 +47,5 @@ results of the benchmark algorithm to see if we can reduce the number of failure
 of time the algorithm take, or both.
 The Simulate class is used to do the simulation for our system. We pass the simulate class our 
 input data, it runs both algorithms, and it provides us with the output data.
+
+Team Members: Chris Yu, Kenny He, Sonny Ghandi
