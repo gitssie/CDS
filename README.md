@@ -1,6 +1,5 @@
 CDS
 ===
-Code
 There are many classes and interfaces defined in our project; this section will briefly describe 
 each of them. To see how they have been implemented, please see our source code in the 
 appendix.
